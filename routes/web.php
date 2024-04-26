@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\frontend\AboutusController;
 use App\Http\Controllers\frontend\LandingController;
 use Illuminate\Support\Facades\Route;
 
@@ -15,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/',[LandingController::class,'index'])->name('landing');
+Route::get('/aboutus',[AboutusController::class,'index'])->name('/aboutus');
+

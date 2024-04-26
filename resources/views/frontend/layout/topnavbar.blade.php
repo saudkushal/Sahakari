@@ -2,8 +2,8 @@
     <img src={{asset("cooperativeimages/2.jpg")}} class="w-full h-full">
 
     <div class="absolute p-4 w-full border flex justify-between items-center max-sm:p-2">
-        <div class="max-sm:h-[40px] max-sm:w-[140px] ">
-            <img src={{asset("cooperativeimages/logo-1.png")}} class="w-full h-full">
+        <div>
+            <h1 class="text-green-500 font-bold max-sm:text-[15px] text-3xl" >Softsaro Nepal Pvt.Ltd</h1>
         </div>
 
         <div class="max-sm:h-[70px] max-sm:w-[120px]">
