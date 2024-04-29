@@ -11,7 +11,7 @@
     </div>
 
 </div>
-<div class="grid grid-cols-4 gap-10 px-20 pt-10 max-sm:grid-cols-1">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 px-20 pt-10 ">
     <div class="r1 py-10 shadow-lg flex flex-col items-center text-center bg-white">
         <div
             class="icon1 h-[80px] w-[80px] border border-black border-dashed border-2 border-green-500 rounded-full flex  justify-center items-center ">

@@ -16,16 +16,16 @@
 
     </div>
     <div class="grid grid-cols-3 gap-10 max-sm:gap-0">
-        <p class="pl-10 pt-10 text-[20px] col-span-2 max-sm:text-[15px]">We offer a wide range of deposit products
+        <p class="px-20 max-sm:px-10 pt-10 text-[20px] col-span-2 max-sm:text-[15px]">We offer a wide range of deposit products
             that caters to your
             requirement. In order to expand community participation. Feel free to contact Us!</p>
         <button type="button" class="text-black font-bold text-[20px] text-green-600">View All</button>
     </div>
 
-    <div class="grid grid-cols-2 gap-10 max-sm:px-5 px-10 py-10 max-sm:grid-cols-1">
-        <div class="r1 h-[50vh] w-[30vw] max-sm:w-[62vw] relative">
+    <div class="grid grid-cols-2 gap-10 max-sm:px-10 px-20 py-10 max-sm:grid-cols-1">
+        <div class="r1 h-[50vh] w-[25vw] max-sm:w-[55vw] relative">
             <img src={{asset("cooperativeimages/12q.jpg")}} class="w-full h-full object-cover ">
-            <div class="absolute bg-white shadow-lg h-[30vh] w-[28vw]  max-sm:w-[56vw]  -right-40  top-20">
+            <div class="absolute bg-white shadow-lg h-[30vh] w-[20vw]  max-sm:w-[45vw]  -right-40  top-20">
                 <h1 class="text-[20px] px-10 pt-10 font-bold">Silver Jubilee 2080</h1>
                 <p class="text-[18px] px-10 pt-5">25th year of continious service.</p>
                 <button type="button" class="px-10 pt-5 text-green-600 underline text-[20px] border-black">Read
@@ -37,9 +37,9 @@
 
 
         </div>
-        <div class="r1 h-[50vh] w-[30vw]  max-sm:w-[62vw] relative">
+        <div class="r1 h-[50vh] w-[25vw]  max-sm:w-[55vw] relative">
             <img src={{asset("cooperativeimages/blogging.jpg")}} class="w-full h-full object-cover ">
-            <div class="absolute bg-white shadow-lg h-[30vh] w-[28vw]  max-sm:w-[56vw] -right-40  top-20">
+            <div class="absolute bg-white shadow-lg h-[30vh] w-[20vw]  max-sm:w-[45vw] -right-40  top-20">
                 <h1 class="text-[20px] px-10 pt-10 font-bold">Silver Jubilee 2080</h1>
                 <p class="text-[18px] px-10 pt-5">25th year of continious service.</p>
                 <button type="button" class="px-10 pt-5 text-green-600 underline text-[20px] border-black">Read

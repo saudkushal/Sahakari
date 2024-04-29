@@ -1,13 +1,15 @@
-<div class="w-full h-[20vh] relative flex">
-    <img src={{asset("cooperativeimages/2.jpg")}} class="w-full h-full">
+<div class="w-full h-[14vh] relative flex">
+    <img src={{ asset('cooperativeimages/2.jpg') }} class="w-full h-full">
 
-    <div class="absolute p-4 w-full border flex justify-between items-center max-sm:p-2">
-        <div>
-            <h1 class="text-green-500 font-bold max-sm:text-[15px] text-3xl" >Softsaro Nepal Pvt.Ltd</h1>
+    <div class="absolute px-4 w-full border flex justify-between items-center max-sm:p-2">
+
+        <div class="">
+            <h1 class="text-green-500 font-bold max-sm:text-[15px] text-3xl">Softsaro Nepal Pvt.Ltd</h1>
         </div>
 
-        <div class="max-sm:h-[70px] max-sm:w-[120px]">
-            <img src={{asset("cooperativeimages/logo-2.png")}} class="w-full h-full">
+
+        <div class="">
+            <img src={{ asset('cooperativeimages/logo-2.png') }} class="">
 
         </div>
 
@@ -22,8 +24,8 @@
 
 
                 <div class="flex  w-full h-full gap-1 max-sm:gap-0">
-                    <img src={{asset("cooperativeimages/america.png")}} class="w-full h-full py-2 ">
-                    <span class="block text-white max-sm:text-[12px] max-sm:py-1.5 ">English</span>
+                    <img src={{ asset('cooperativeimages/america.png') }} class="w-full h-full py-2 ">
+                    <span class="block text-white py-0.5 max-sm:text-[12px] max-sm:py-1.5 ">English</span>
                 </div>
 
 
